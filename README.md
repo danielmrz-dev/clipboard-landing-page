@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor site](https://www.frontendmentor.io/solutions/clipboard-landing-page-built-with-tailwind-uOqT6yaLOf)
+- Live Site URL: [Live site](https://danielmrz-dev.github.io/clipboard-landing-page/)
 
 ## My process
 
